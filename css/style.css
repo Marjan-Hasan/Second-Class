@@ -1,0 +1,14 @@
+table,th,tr,td{
+    border: 1px dotted lightslategray;
+    border-collapse: collapse;
+    padding: 15px;
+}
+th{
+    background-color: #636e72;
+}
+#odd{
+    background-color: #dfe6e9;
+}
+#even{
+    background-color: #b2bec3;
+}
